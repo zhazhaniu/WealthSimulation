@@ -1,5 +1,5 @@
 # WealthSimulation
-A simulation of wealth random transform in society
+A simulation of wealth random transformation in society
 
 Everyone has 1 wealth initially.
 
